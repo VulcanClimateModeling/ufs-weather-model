@@ -6,3 +6,7 @@
 	path = stochastic_physics
 	url = https://github.com/noaa-psd/stochastic_physics
 	branch = release/public-v1
+[submodule "FV3"]
+	path = FV3
+	url = git@github.com:VulcanClimateModeling/fv3atm-private.git
+	branch = merged-fv3-subtree
